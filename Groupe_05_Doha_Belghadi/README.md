@@ -1,8 +1,8 @@
 # Présentation Base de Données Avancées
 
-Nom : Doha Belghadi
-      Elasbi Rajae
-      El Ferrassi Ghayta
+Nom : Doha Belghadi, 
+      Elasbi Rajae, 
+      El Ferrassi Ghayta.
       
 Groupe : 05  
 Sujet : PoW, PoS, DPoS
